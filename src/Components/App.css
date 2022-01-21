@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0px; 
+
+}
+
+.inner-section {
+  background-color: #e7f1f3;
+  
+}
+#email {
+  background-color: #e7f1f3;
+}
+#InputPassword1 {
+  background-color: #e7f1f3;
+}
+
+.maincontainer{
+  height: 100%;
+}
+
